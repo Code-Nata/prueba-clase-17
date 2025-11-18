@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+.Trash/
+# Config y cachés de usuario
+*.CFUserTextEncoding
+*.lesshst
+*.viminfo
+*.zsh_history
+.vscode/
